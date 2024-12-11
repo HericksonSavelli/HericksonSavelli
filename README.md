@@ -1,4 +1,4 @@
-## Hi there 👋
+## Olá 👋
 
 <strong>Eu sou o Herickson Savelli, sou um Programador front End, atualmente estou aprendendo e criando projetos com:
 <strong>
@@ -10,11 +10,12 @@
 <br>
 <p><strong>E Estou Aprendendo:</strong></p>
 <br>
-<img scr="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
-<img scr="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
+<img src="https://img.shields.io/badge/react%20os-0088CC?style=for-the-badge&logo=reactos&logoColor=white" alt="react-logo"/>
+<br>
+<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
 <br>
 <p><strong>Como Me Encontrar:</strong></p>
-<img width="40" height="40" src="https://img.icons8.com/ios/50/1A1A1A/instagram-new--v1.png" alt="instagram-new--v1"/> <img width="40" height="40" src="https://img.icons8.com/ios-filled/50/1A1A1A/linkedin.png" alt="linkedin"/>
+<a href="www.linkedin.com/in/herickson-savelli-7a7152237"><img width="40" height="40" src="https://img.icons8.com/ios/50/1A1A1A/instagram-new--v1.png" alt="instagram-new--v1"/></a> <a href="https://www.instagram.com/herickson.savelli/"><img width="40" height="40" src="https://img.icons8.com/ios-filled/50/1A1A1A/linkedin.png" alt="linkedin"/></a>
 
 
 
