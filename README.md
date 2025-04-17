@@ -16,7 +16,7 @@
 <br>
 <br>
 <p><strong>Como Me Encontrar:</strong></p>
-<a href="https://www.instagram.com/herickson.savelli/"><img width="30" height="30" src="https://img.icons8.com/ios/50/1A1A1A/instagram-new--v1.png" alt="instagram-new--v1"/></a> <a href="https://www.linkedin.com/in/herickson-savelli-7a7152237/"><img width="30" height="30" src="https://img.icons8.com/ios-filled/50/1A1A1A/linkedin.png" alt="linkedin"/></a>
+<a href="https://www.instagram.com/herickson.savelli/"><img width="30" height="30" src="https://img.icons8.com/ios/50/1A1A1A/instagram-new--v1.png" alt="instagram-new--v1"/></a> <a href="https://www.linkedin.com/in/herickson-savelli"><img width="30" height="30" src="https://img.icons8.com/ios-filled/50/1A1A1A/linkedin.png" alt="linkedin"/></a>
 
 <br>
 <br>
