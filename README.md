@@ -14,6 +14,8 @@
 <br>
 <img width="80" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
 <br>
+<img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt="GitHub Icon" width="32" height="32">
+<br>
 <br>
 <p><strong>Como Me Encontrar:</strong></p>
 <a href="https://www.instagram.com/herickson.savelli/"><img width="30" height="30" src="https://img.icons8.com/ios/50/1A1A1A/instagram-new--v1.png" alt="instagram-new--v1"/></a> <a href="https://www.linkedin.com/in/herickson-savelli"><img width="30" height="30" src="https://img.icons8.com/ios-filled/50/1A1A1A/linkedin.png" alt="linkedin"/></a>
