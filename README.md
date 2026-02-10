@@ -14,9 +14,9 @@
 <br>
 <img width="80" height="30" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="javascript-logo"/>
 <br>
-<img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt="GitHub Icon" width="32" height="32">
+<img src="https://icons.getbootstrap.com/assets/icons/github.svg" alt="GitHub Icon" width="35" height="35">
 <br>
-<img src="https://git-scm.com" alt="Git Logo" width="100" height="100">
+<img width="50" height="50" alt="image" src="https://github.com/user-attachments/assets/6d656cec-b1dd-4cfa-91cb-de2eb074f6af" />
 <br>
 <br>
 <p><strong>Como Me Encontrar:</strong></p>
